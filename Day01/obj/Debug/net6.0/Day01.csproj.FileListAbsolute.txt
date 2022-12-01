@@ -1,0 +1,16 @@
+/Users/yashkhade/Developer/AdventOfCode22/Day01/bin/Debug/net6.0/Day01
+/Users/yashkhade/Developer/AdventOfCode22/Day01/bin/Debug/net6.0/Day01.deps.json
+/Users/yashkhade/Developer/AdventOfCode22/Day01/bin/Debug/net6.0/Day01.runtimeconfig.json
+/Users/yashkhade/Developer/AdventOfCode22/Day01/bin/Debug/net6.0/Day01.dll
+/Users/yashkhade/Developer/AdventOfCode22/Day01/bin/Debug/net6.0/ref/Day01.dll
+/Users/yashkhade/Developer/AdventOfCode22/Day01/bin/Debug/net6.0/Day01.pdb
+/Users/yashkhade/Developer/AdventOfCode22/Day01/obj/Debug/net6.0/Day01.csproj.AssemblyReference.cache
+/Users/yashkhade/Developer/AdventOfCode22/Day01/obj/Debug/net6.0/Day01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yashkhade/Developer/AdventOfCode22/Day01/obj/Debug/net6.0/Day01.AssemblyInfoInputs.cache
+/Users/yashkhade/Developer/AdventOfCode22/Day01/obj/Debug/net6.0/Day01.AssemblyInfo.cs
+/Users/yashkhade/Developer/AdventOfCode22/Day01/obj/Debug/net6.0/Day01.csproj.CoreCompileInputs.cache
+/Users/yashkhade/Developer/AdventOfCode22/Day01/obj/Debug/net6.0/Day01.dll
+/Users/yashkhade/Developer/AdventOfCode22/Day01/obj/Debug/net6.0/ref/Day01.dll
+/Users/yashkhade/Developer/AdventOfCode22/Day01/obj/Debug/net6.0/Day01.pdb
+/Users/yashkhade/Developer/AdventOfCode22/Day01/obj/Debug/net6.0/Day01.genruntimeconfig.cache
+/Users/yashkhade/Developer/AdventOfCode22/Day01/bin/Debug/net6.0/input.txt
